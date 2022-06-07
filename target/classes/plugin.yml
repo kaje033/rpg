@@ -1,0 +1,12 @@
+name: Solarion
+version: '1.0-SNAPSHOT'
+main: solarion.solarion.Solarion
+api-version: 1.16
+
+commands:
+  스탯:
+  초기화:
+  칭호:
+  채팅금지:
+
+
